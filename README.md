@@ -5,7 +5,7 @@ After the installer finishes, you can simply open Bigfoot through Steam, and it 
 
 You can find the latest release [here](https://github.com/TomtomFH/Bigfoot-Launcher/releases)!
 
-If you encounter any issues, just DM me on Discord: tomtomfh.
+If you encounter any issues, just DM me on Discord: <https://discord.com/users/787626799512158259>.
 
 ### Update Log
 __1.0.1__ – Switched from console to a custom interface.
