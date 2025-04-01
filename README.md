@@ -7,12 +7,12 @@ You can find the latest release [here](https://github.com/TomtomFH/Bigfoot-Launc
 
 If you encounter any issues, just DM me on Discord: [tomtomfh](https://discord.com/users/787626799512158259) or [create a new issue](https://github.com/TomtomFH/Bigfoot-Launcher/issues).
 
-### Update Log
+### Update Log  
 
-__1.0.1__ 
-    - Switched from console to a custom interface.
-    
-__1.0.2__
-    - Fixed buttons remaining disabled after the game was closed.
-    - Added hover and click effects.
-    - Improved button visuals when disabled.
+__1.0.1__  
+- Switched from console to a custom interface.  
+
+__1.0.2__  
+- Fixed buttons remaining disabled after the game was closed.  
+- Added hover and click effects.  
+- Improved button visuals when disabled.  
