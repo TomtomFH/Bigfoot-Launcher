@@ -11,6 +11,7 @@ If you encounter any issues, just DM me on Discord: [tomtomfh](https://discord.c
 
 __1.0.1__ 
     - Switched from console to a custom interface.
+    
 __1.0.2__
     - Fixed buttons remaining disabled after the game was closed.
     - Added hover and click effects.
