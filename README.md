@@ -8,4 +8,9 @@ You can find the latest release here!
 If you encounter any issues, just DM me on Discord: tomtomfh.
 
 ### Update Log
-__1.0.1__ – Switched from console to a custom interface.
+__1.0.1__ 
+    - Switched from console to a custom interface.
+__1.0.2__
+    - Fixed buttons remaining disabled after the game was closed.
+    - Added hover and click effects.
+    - Improved button visuals when disabled.
